@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GeneratorName/ViewController.swift"
+            timestampString = "458799665.91845"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "launchButton(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GeneratorName.ViewController.textField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "GeneratorName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JuanGomez/Documents/Projects/IOS_Projects/GeneratorName/GeneratorName/ViewController.swift"
+                  timestampString = "458790982.694227"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GeneratorName.ViewController.textField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "GeneratorName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JuanGomez/Documents/Projects/IOS_Projects/GeneratorName/GeneratorName/ViewController.swift"
+                  timestampString = "458790982.709352"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GeneratorName.ViewController.textField.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "GeneratorName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JuanGomez/Documents/Projects/IOS_Projects/GeneratorName/GeneratorName/ViewController.swift"
+                  timestampString = "458790982.709487"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GeneratorName.ViewController.init (GeneratorName.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; GeneratorName.ViewController"
+                  moduleName = "GeneratorName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JuanGomez/Documents/Projects/IOS_Projects/GeneratorName/GeneratorName/ViewController.swift"
+                  timestampString = "458790982.709582"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GeneratorName.ViewController.init (GeneratorName.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; GeneratorName.ViewController"
+                  moduleName = "GeneratorName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JuanGomez/Documents/Projects/IOS_Projects/GeneratorName/GeneratorName/ViewController.swift"
+                  timestampString = "458790982.709681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1522">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
