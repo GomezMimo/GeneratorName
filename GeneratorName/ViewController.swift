@@ -9,8 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController, UITextFieldDelegate {
-    var vowels = ["a", "e", "i", "o", "u"]
-    var consonants = ["b", "c", "d", "f", "g", "h", "j", "k", "n", "l","p", "q", "r", "s", "t", "v", "w", "x", "y", "z"]
+    var vowels = ["A", "E", "I", "O", "U"]
+    var consonants = ["B", "C", "D", "F", "G", "H", "J", "K", "N", "L","P", "Q", "R", "S", "T", "V", "W", "X", "Y", "Z"]
     var result = ""
     @IBOutlet weak var resultLabel: UILabel!
     @IBAction func launchButton(sender: AnyObject) {
@@ -21,7 +21,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         println(myString)
         for var i = 0 ; i < (myString+1) ; i++ {
             var rand1 = Int(arc4random_uniform(5))
-            var rand2 = Int(arc4random_uniform(20))
+            var rand2 = Int(arc4random_uniform(21))
             if arrayString[i] == "C"{
                 println(consonants[rand2])
                 result += consonants[rand2]
